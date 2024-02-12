@@ -14,14 +14,14 @@ function mintNFT( _name , _eyecolor , _shirtType , _bling)
 }
 
 
-function listNFTs(){
-    for(let i=0;i<NFTs.length;i++)
+function listNFTS(){
+    for(let i=0;i<NFTS.length;i++)
     {
         console.log("\nID :\t\t" + (i+1));
-        console.log("\n Name:\t\t " + NFTs[i].name);
-        console.log("\n eyecolor: \t\t" + NFTs[i].eyecolor);
-        console.log("\n shirtType:\t\t " + NFTs[i].shirtType);
-        console.log("\n bling:\t\t" + NFTs[i].bling);
+        console.log("\nName:\t\t" + NFTS[i].name);
+        console.log("\neyecolor:\t" + NFTS[i].eyecolor);
+        console.log("\nshirtType:\t" + NFTS[i].shirtType);
+        console.log("\nbling:\t\t" + NFTS[i].bling);
     }
 }
 
@@ -33,5 +33,5 @@ mintNFT("bob", "blue" , "hoodie" , "gold chain");
 mintNFT("sue", "blue" , "hoodie" , "gold chain");
 mintNFT("jack", "blue" , "hoodie" , "gold chain");
 mintNFT("john", "blue" , "hoodie" , "gold chain");
-listNFTs();
+listNFTS();
 getTotalSupply();
