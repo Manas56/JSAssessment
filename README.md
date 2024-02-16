@@ -1,7 +1,11 @@
-Description :-
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain.
-This program can be easily compiled using using Remix IDE.In this contract, we create our own token and can also know which address contains
-how much amount of token, how much amount of token gets minted or burnt and what is the total supply of the token available.
+                                                                    :-METACRAFTERS PROJECT :-
+1.javascriptBeginners.js : In this, we learnt about how the NFTs are created, the process of creating the variable holding NFTs,
+their metadata and how those NFTs will get minted and the total number of NFTs which are being supplied.                                                                     
+
+                                                                    
+2.ethBeginners.sol :This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the
+Ethereum blockchain.This program can be easily compiled using using Remix IDE.In this contract, we create our own token and can also know which
+address containshow much amount of token, how much amount of token gets minted or burnt and what is the total supply of the token available.
 
 -> Overview
 
