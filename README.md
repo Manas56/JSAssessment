@@ -29,4 +29,4 @@ To use this contract, you can deploy it on an Ethereum-compatible blockchain net
 
 ## License
 
-This project is licensed under the Naman Deol. Contact [mailto:namandeol555@gmail.com] .
+This project is licensed under Manas Mamgain. Contact [mailto:manasmamgain19@gmail.com] .
