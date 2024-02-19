@@ -1,4 +1,4 @@
-#OwnershipContract
+# OwnershipContract
 OwnershipContract is a simple Ethereum smart contract written in Solidity. It demonstrates ownership functionality by restricting access to certain functions based on the contract owner.
 
 #Contract Functions
